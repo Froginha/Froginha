@@ -1,5 +1,9 @@
 ## Oiii, eu sou a Bruna
 
+Front-end Dev e estudante de Análise e desenvolvimento de sistemas
+
+18y
+
 
 
 <div style="display: inline_block"><br>
