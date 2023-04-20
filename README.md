@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Bruna
 
-Front-end Dev e estudante de Análise e desenvolvimento de sistemas
+Front Dev e estudante de Análise e desenvolvimento de sistemas
 
 18y
 
