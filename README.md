@@ -11,7 +11,8 @@ Front Dev e estudante de Análise e desenvolvimento de sistemas
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Bruna-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098348158184071322/1098357067875631194/ezgif-2-74bf822193.gif">
+   <img align="center" alt="Bruna-JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="right" alt="Bru-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098348158184071322/1098357067875631194/ezgif-2-74bf822193.gif">
 </div>
   
   ##
