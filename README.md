@@ -1,9 +1,9 @@
-## Oiii, eu sou a Bruna
+<div align="center">
+<img max-widht="800" src="https://cdn.discordapp.com/attachments/1098348158184071322/1100620932030156841/Froginha.png"/>
+</div>
 
-Front Dev e estudante de Análise e desenvolvimento de sistemas
 
-18y
-
+## <img height="40" src="https://cdn.discordapp.com/attachments/1098348158184071322/1100623060421328977/bmooo.gif"/> Mais sobre mim!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -13,8 +13,7 @@ Front Dev e estudante de Análise e desenvolvimento de sistemas
   <img align="right" alt="Bru-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098348158184071322/1099887428027822090/ezgif-5-8a65e8d54f.gif">
 </div>
   
-  ##
- 
+<br>  
 <div> 
   <a href = "mailto:contatocarrassai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-carrassai-da-silva-234852232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
