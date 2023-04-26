@@ -3,7 +3,7 @@
 </div>
 
 
-## <img height="40" src="https://cdn.discordapp.com/attachments/1098348158184071322/1100623060421328977/bmooo.gif"/> Mais sobre mim!
+## <img height="50" src="https://cdn.discordapp.com/attachments/1098348158184071322/1100623060421328977/bmooo.gif"/> Mais sobre mim!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
