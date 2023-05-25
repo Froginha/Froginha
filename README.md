@@ -14,8 +14,9 @@
   <img align="right" alt="Bru-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1098348158184071322/1099887428027822090/ezgif-5-8a65e8d54f.gif">
 </div>
   
-<br>  
-<div> 
+<br>
+You can contact me
+<div
   <a href = "mailto:contatocarrassai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-carrassai-da-silva-234852232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
