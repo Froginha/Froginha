@@ -3,7 +3,7 @@
 </div>
 
 
-## <img height="50" src="https://cdn.discordapp.com/attachments/1098348158184071322/1100623060421328977/bmooo.gif"/> Languages and tools!
+## <img height="50" src="https://cdn.discordapp.com/attachments/1113627289691885651/1121859558873239665/1687542553406.png"/> Languages and tools!
 
 
 **LANGUAGES**
