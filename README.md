@@ -14,7 +14,7 @@
   <img align="center" alt="Bruna-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Bruna-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img align="right" alt="Bru-pic" height="290" width="290" src="https://media.discordapp.net/attachments/1108149729256275968/1121860230297432094/1687542553406.png">
+  <img position="relative" top="50" align="right" alt="Bru-pic" height="200" width="200" src="https://cdn.discordapp.com/attachments/1108149729256275968/1121868165358555197/123445.png">
 </div>
 
 <br/> 
