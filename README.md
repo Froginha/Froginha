@@ -1,5 +1,5 @@
 <div align="center">
-<img max-widht="800" src="https://cdn.discordapp.com/attachments/1098348158184071322/1100620932030156841/Froginha.png"/>
+<img max-widht="800" src="https://media.discordapp.net/attachments/1123060814715306065/1123296601750896773/Froginha.png?width=936&height=468"/>
 </div>
 
 
