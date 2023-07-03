@@ -3,16 +3,11 @@
 </div>
 
 
-
-<img align="left" height="50" src="https://media.discordapp.net/attachments/1098348158184071322/1100623060421328977/bmooo.gif"  />
-
-###
-
-<h2 align="left">Languages and tools!</h2>
+<h2 align="center">Languages and tools!</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -25,26 +20,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<img align="right" height="250" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
+<img align="right" height="222" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="159" alt="languages graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="202" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<h4 align="center">You can reach-me here!</h4>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/bruna-carrassai-da-silva-234852232/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
 </div>
 
 ###
