@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center">Languages and tools!</h2>
+<h1 align="center">Languages and tools!</h1>
 
 ###
 
@@ -25,19 +25,18 @@
 
 ###
 
-<img align="right" height="222" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
+<img align="right" height="182" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="202" alt="languages graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=froginha&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=7&order=3" height="159" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="159" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h4 align="center">You can reach-me here!</h4>
+<h3 align="center">You can reach-me here!</h3>
 
 ###
 
