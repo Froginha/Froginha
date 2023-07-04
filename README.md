@@ -25,11 +25,11 @@
 
 ###
 
-<img align="right" height="182" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
+<img align="right" height="180" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=froginha&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=7&order=3" height="159" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="159" alt="languages graph"  />
 </div>
