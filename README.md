@@ -25,12 +25,12 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
+<img align="right" height="224" src="https://cdn.discordapp.com/attachments/1108149729256275968/1124496197705543841/download20230605212551.png"  />
 
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="283" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froginha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="242" alt="languages graph"  />
 </div>
 
 ###
