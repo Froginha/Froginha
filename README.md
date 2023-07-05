@@ -1,5 +1,5 @@
 <div align="center">
-<img max-widht="800" src="https://cdn.discordapp.com/attachments/1123060814715306065/1125994712256495717/Arcade_Gamer.png?width=936&height=468"/>
+<img max-widht="800" src="https://cdn.discordapp.com/attachments/1123060814715306065/1125995871113330688/Arcade_Gamer_1.png?width=936&height=468"/>
 </div>
 
 
