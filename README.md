@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Hi devs! 👋<br><br>- 🔭 Network Operations Center Intern<br><br>- 📚 Systems Analysis and Development student and Systems Development Technician<br><br>-🌱Currently learning Python | PHP | | React.JS | Next.Js | Laravel | React Native .<br><br>- ⚡ My hobbies are studying, programming, gaming, and drawing! Always looking to evolve 🦾<br><br>-❤️ Passionate about programming, cats, frogs and sweets!</p>
+<p align="left">Hi devs! 👋<br><br>- 🔭 Network Operations Center Intern<br><br>- 📚 Systems Analysis and Development student and Systems Development Technician<br><br>-🌱Currently learning Python | PHP | | React.JS | Next.Js | Laravel | React Native .<br><br>- ⚡ My hobbies are studying, programming, gaming, and drawing! Always looking to evolve <br><br>-❤️ Passionate about programming, cats, frogs and sweets!</p>
 
 ###
 
